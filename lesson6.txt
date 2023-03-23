@@ -1,0 +1,5 @@
+write stand alone code
+add another back slask
+print new lines
+paint windows
+run python
